@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm Adrian Creteanu</h1>
+<h1 align="center">Hi 👋🏼, I'm Adrian</h1>
 <h3 align="center">An iOS Developer with more than 5 years industry experience, passionate for building clean and scalable apps loved by millions of users</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adriancreteanu&label=Profile%20views&color=0e75b6&style=flat" alt="adriancreteanu" /> </p>
 
-- 🌱 I’m currently learning **SwiftUI, GraphQL**
+- 🌱 I’m currently learning **SwiftUI, Combine**
 
 - 📝 I regularly write articles on [https://medium.com/@adrian.creteanu](https://medium.com/@adrian.creteanu)
 
 - 💬 Ask me about **Swift, iOS, Mobile, Apple**
 
-- 📫 How to reach me **creteanu.adrian@gmail.com**
+- 📮 Reach out to me at **creteanu.adrian@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
