@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋🏼, I'm Adrian</h1>
-<h3 align="center">An iOS Developer with more than 5 years industry experience, passionate for building clean and scalable apps loved by millions of users</h3>
+<h3 align="center">Experienced Senior iOS Developer with a passion for crafting functional, visually appealing apps that engage and delight users.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adriancreteanu&label=Profile%20views&color=0e75b6&style=flat" alt="adriancreteanu" /> </p>
 
